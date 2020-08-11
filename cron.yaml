@@ -1,0 +1,6 @@
+version: 1
+cron:
+-name "craigslist-job"
+url:
+schedule: "0 */24 * * *"
+

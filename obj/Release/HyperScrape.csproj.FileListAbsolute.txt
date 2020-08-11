@@ -1,0 +1,11 @@
+C:\github\HyperScrape\bin\Release\HyperScrape.exe.config
+C:\github\HyperScrape\bin\Release\HyperScrape.exe
+C:\github\HyperScrape\bin\Release\HyperScrape.pdb
+C:\github\HyperScrape\bin\Release\HtmlAgilityPack.dll
+C:\github\HyperScrape\bin\Release\HtmlAgilityPack.pdb
+C:\github\HyperScrape\bin\Release\HtmlAgilityPack.xml
+C:\github\HyperScrape\obj\Release\HyperScrape.csprojAssemblyReference.cache
+C:\github\HyperScrape\obj\Release\HyperScrape.csproj.CoreCompileInputs.cache
+C:\github\HyperScrape\obj\Release\HyperScrape.csproj.CopyComplete
+C:\github\HyperScrape\obj\Release\HyperScrape.exe
+C:\github\HyperScrape\obj\Release\HyperScrape.pdb
