@@ -3,14 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperScrape", "HyperScrape.csproj", "{D30CF5A8-B7EE-41DA-A0E1-3D37BFF0447C}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8D6CD3D-BD40-4775-9E4D-C138F13013DE}"
 	ProjectSection(SolutionItems) = preProject
 		cron.yaml = cron.yaml
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperScrape.WebAPI", "..\HyperScrape.WebAPI\HyperScrape.WebAPI.csproj", "{C3A65B42-EA75-44D1-972F-FA06A8272F27}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HyperScrape.Lambda", "HyperScrape.Lambda\HyperScrape.Lambda.csproj", "{20031292-C880-40F5-ADBB-77B8B3275DEB}"
 EndProject
@@ -20,14 +16,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D30CF5A8-B7EE-41DA-A0E1-3D37BFF0447C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D30CF5A8-B7EE-41DA-A0E1-3D37BFF0447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D30CF5A8-B7EE-41DA-A0E1-3D37BFF0447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D30CF5A8-B7EE-41DA-A0E1-3D37BFF0447C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3A65B42-EA75-44D1-972F-FA06A8272F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3A65B42-EA75-44D1-972F-FA06A8272F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3A65B42-EA75-44D1-972F-FA06A8272F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3A65B42-EA75-44D1-972F-FA06A8272F27}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20031292-C880-40F5-ADBB-77B8B3275DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20031292-C880-40F5-ADBB-77B8B3275DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20031292-C880-40F5-ADBB-77B8B3275DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU

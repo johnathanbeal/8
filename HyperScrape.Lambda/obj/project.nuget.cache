@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hxlyNWkhScO2d5OWkv4eT38O8xmLnYm0WPKiqcVpNzwlUPK37fC6sQiDl4FNdXq4iAfd8xvsnjKFMrYNduN6Vg==",
+  "dgSpecHash": "Ua6AFSERcpZ5S0j9sXx6eb4YnPkATFclSbd8qgXnRBKcx4uJwD06FR6V62p4Xw5MHfpH9EGEiq5jHx5wcwGp7Q==",
   "success": true,
-  "projectFilePath": "C:\\github\\HyperScrape\\HyperScrape.Lambda\\HyperScrape.Lambda.csproj",
+  "projectFilePath": "C:\\Github\\HyperScrape\\HyperScrape.Lambda\\HyperScrape.Lambda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbeal\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
-    "C:\\Users\\jbeal\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512"
+    "C:\\Users\\jbeal\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\jbeal\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
   ],
   "logs": []
 }

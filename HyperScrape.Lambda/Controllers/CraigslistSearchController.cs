@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HyperScrape.Controllers
+namespace HyperScrape.Lambda
 {
     public class CraigslistSearchController
     {

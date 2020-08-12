@@ -10,10 +10,3 @@ C:\github\HyperScrape\HyperScrape.Lambda\obj\Release\netcoreapp3.1\linux-x64\Hyp
 C:\github\HyperScrape\HyperScrape.Lambda\obj\Release\netcoreapp3.1\linux-x64\HyperScrape.Lambda.dll
 C:\github\HyperScrape\HyperScrape.Lambda\obj\Release\netcoreapp3.1\linux-x64\HyperScrape.Lambda.pdb
 C:\github\HyperScrape\HyperScrape.Lambda\obj\Release\netcoreapp3.1\linux-x64\HyperScrape.Lambda.genruntimeconfig.cache
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HyperScrape.exe
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HtmlAgilityPack.dll
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HyperScrape.pdb
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HyperScrape.exe.config
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HtmlAgilityPack.pdb
-C:\github\HyperScrape\HyperScrape.Lambda\bin\Release\netcoreapp3.1\linux-x64\HtmlAgilityPack.xml
-C:\github\HyperScrape\HyperScrape.Lambda\obj\Release\netcoreapp3.1\linux-x64\HyperScrape.Lambda.csproj.CopyComplete
